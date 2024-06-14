@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhuraman-afk" alt="madhuraman-afk" /></a> </p>
 
-- 🔭 I’m currently working on [Poultry monitoring](https://github.com/MADHURAMAN-afk/Poultry_monitiring)
+- 🔭 I’m currently working on [Poultry monitoring](https://github.com/MADHURAMAN-afk/Poultry-Master)
 
 - 🌱 I’m currently learning Embeded **STM32, CPP ,Rust**
 
-- 👯 I’m looking to collaborate on [TENS Simulator](https://github.com/MADHURAMAN-afk/TENS_CODE)
+- 👯 I’m looking to collaborate on **Vehicle VCU**
 
 - 💬 Ask me about **ESPS, ARDUINO, ESPIDF, MATLAB , SIMULINK**
 
